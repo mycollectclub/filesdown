@@ -1,0 +1,1 @@
+plugin.video.collect - 老版本.zip 为pythen 2.7版本，适合比较老的kodi。
